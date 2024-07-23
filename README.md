@@ -43,7 +43,7 @@ The system is designed to automatically respond to threats in real-time using a 
 
 
 ## Description of the Implemented system
-<img width="332" alt="Screenshot 2024-07-24 at 2 38 51 AM" src="https://github.com/user-attachments/assets/5c9f46ae-9541-4c63-8e84-5ee0a01f3ad7">
+
 
 
 ### Data collection
@@ -60,6 +60,8 @@ If a flow is classified as normal, no further action will be taken, allowing reg
 
 
 ### Prevention
+
+<img width="332" alt="Screenshot 2024-07-24 at 2 38 51 AM" src="https://github.com/user-attachments/assets/5c9f46ae-9541-4c63-8e84-5ee0a01f3ad7">
 
 - INetwork Access Control (NAC) Using FreeRADIUS and pfSense:
 - FreeRADIUS: For Configuring authentication and authorization of network devices and users.
