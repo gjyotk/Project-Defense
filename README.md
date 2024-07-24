@@ -61,7 +61,7 @@ If a flow is classified as normal, no further action will be taken, allowing reg
 
 ### Prevention
 
-<img width="332" alt="Screenshot 2024-07-24 at 2 38 51 AM" src="https://github.com/user-attachments/assets/5c9f46ae-9541-4c63-8e84-5ee0a01f3ad7">
+<img width="852" alt="Screenshot 2024-07-24 at 10 24 01 AM" src="https://github.com/user-attachments/assets/65eda0a4-53dc-48ef-b72f-6f7886150adc">
 
 - INetwork Access Control (NAC) Using FreeRADIUS and pfSense:
 - FreeRADIUS: For Configuring authentication and authorization of network devices and users.
@@ -106,7 +106,10 @@ pfSense: Integrated with FreeRADIUS for network access control, enforcing polici
   3. recall_score: 90.0
   4. f1_score: 94.73684210526316
  
-  
+## Mitigation alert
+
+<img src="https://github.com/user-attachments/assets/7b468f3b-843b-495b-8371-23e5fe1ce649" alt="drawing" width="460"/>
+
 ## Conclusion
 The project successfully establishes a comprehensive framework for network security, integrating advanced monitoring, automated incident response, and robust access control mechanisms. Through our multifaceted approach, this project not only enhances the ability to detect and mitigate threats in real-time but also lays a solid foundation for ongoing network security management. This integrated system ensures that the network remains secure, resilient, and capable of adapting to evolving threats, thereby safeguarding organizational assets and maintaining operational integrity.
 
